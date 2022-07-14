@@ -1,0 +1,88 @@
+.topo{
+    background-color: #940085; 
+    font-size: 24px;
+    font-weight:bold;
+    padding:32px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 0px;
+    color:white;
+ }
+ .ul-topo{
+     margin: 0px;
+     background-color:#FFBDED;
+     padding: 16px;
+     text-align:center;
+     color:#EF0290;
+ }
+ .menu-lista{
+     display: inline-flex;
+     padding: 16px;
+     margin-right: 24px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 18px;
+     text-align: center;
+     color:black;
+ }
+ .menu-lista:hover{
+     display: inline-flex;
+     background-color:#EF0290;
+     color:white;
+     text-decoration: underline;
+ }
+ .bloco-contato{
+    display: inline-flex;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #f5fffb;
+    padding-bottom: 104px;
+    padding-top: 104px;
+    padding-right: 144px;
+    padding-left: 144px;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+  }
+  .img-form{
+    margin-right: 80px;
+  }
+  .titulo-formulario{
+    font-size: 40px;
+    margin-bottom: 48px;
+  }
+  .form-label{
+    font-size: 16px;
+    letter-spacing: 1px;
+  }
+  .form-input{
+    outline: transparent;
+    border-radius: 8px;
+    margin-bottom: 24px;
+    width: 300px;
+    height: 48px;
+  }
+  .form-input-mensagem{
+    border-radius: 8px;
+    margin-bottom: 24px;
+    width: 400px;
+    height: 200px;
+  }
+  .container-fluid{
+    text-decoration:none;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    line-height: 32px;
+  }
+  .botao-form{
+    background-color: black;
+    color: #cdffec;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding-right: 32px;
+    padding-left: 32px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-radius: 40px;
+  }
